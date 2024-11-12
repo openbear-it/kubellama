@@ -1,6 +1,6 @@
 # KubeLLaMA
 
-This repository provides a solution for deploying the [Llama language model](https://github.com/facebookresearch/llama) with [Open WebUI](https://github.com/mlc-ai/webui) on a Kubernetes (K8s) cluster. The setup includes all necessary configuration files and guides to deploy and manage the model across multiple nodes in a scalable and efficient way.
+This repository provides a solution for deploying the [Llama language model](https://github.com/facebookresearch/llama) with [Open WebUI](https://github.com/open-webui/open-webui) on a Kubernetes (K8s) cluster. The setup includes all necessary configuration files and guides to deploy and manage the model across multiple nodes in a scalable and efficient way.
 
 ## Table of Contents
 - [Overview](#overview)
